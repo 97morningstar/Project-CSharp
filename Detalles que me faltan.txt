@@ -1,0 +1,31 @@
+Estas son algunas de las cosas que me faltan para terminar el trabajo
+1. Arreglar la muerte(que no se vaya de los limites de la matriz) ya funciona pero tengo que revisarla bien porque me da error
+(Solucionado)
+
+2. Arreglar lo del formulario IntroducirJugadores el detalle de la cantidad de jugadores(eso hay que verlo con calma)
+(todavia)
+
+3. Arreglar el formulario ayuda (ya se soluciono el problema del album suburbano)
+(todavia)
+
+4. Programar la accion de obstaculo "Cristal" para que teletransporte al jugador hacia el proximo obstaculo "Cristal"
+(esto no debe ser tan dificil, no se)
+(todavia)
+
+5. Ver cuales formularios se mostraran en la barra de menus y cuales no
+(solucionado)
+
+6. Poner un botón en cada formulario en caso de que el usuario desee volver al menu principal (eso con DialogueResult p = form.ShowDialogue())
+(todavia)
+
+7. El tamaño de las celdas para que ocupen la pantalla completa
+(todavia)
+
+8. Qu ecuando el Trex mate al caballo este vuelava al principio
+(solucionado)
+
+9. El sonido de la muerte
+(todavia pero lo voy a pensar en el futuro)
+
+10. Ha y que se está llevando demasioada memoria (creo que ya esto está solucionado)
+(¿solucionado?)

@@ -1,0 +1,174 @@
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto\Proyecto\obj\Debug\Proyecto.Records.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto\Proyecto\obj\Debug\Proyecto.Game.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto\Proyecto\obj\Debug\Proyecto.Inicio.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto\Proyecto\obj\Debug\Proyecto.MenuPrincipal.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto\Proyecto\obj\Debug\Proyecto.Salir.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto\Proyecto\obj\Debug\Proyecto.AlbumSuburbano.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto\Proyecto\obj\Debug\Proyecto.IntroducirJugadores.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto\Proyecto\obj\Debug\Proyecto.Configuracion.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto\Proyecto\obj\Debug\Proyecto.Ayuda.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto\Proyecto\obj\Debug\Proyecto.Ranking.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto\Proyecto\obj\Debug\Proyecto.DeseaUsarSuPoder.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto - copia\Proyecto\bin\Debug\Proyecto.exe.config
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto - copia\Proyecto\bin\Debug\Proyecto.exe
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto - copia\Proyecto\bin\Debug\Proyecto.pdb
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto - copia\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto - copia\Proyecto\obj\Debug\Proyecto.AlbumSuburbano.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto - copia\Proyecto\obj\Debug\Proyecto.Ayuda.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto - copia\Proyecto\obj\Debug\Proyecto.Configuracion.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto - copia\Proyecto\obj\Debug\Proyecto.DeseaUsarSuPoder.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto - copia\Proyecto\obj\Debug\Proyecto.Game.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto - copia\Proyecto\obj\Debug\Proyecto.Inicio.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto - copia\Proyecto\obj\Debug\Proyecto.IntroducirJugadores.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto - copia\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto - copia\Proyecto\obj\Debug\Proyecto.Ranking.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto - copia\Proyecto\obj\Debug\Proyecto.MenuPrincipal.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto - copia\Proyecto\obj\Debug\Proyecto.Salir.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto - copia\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto - copia\Proyecto\obj\Debug\Proyecto.exe
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto - copia\Proyecto\obj\Debug\Proyecto.pdb
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto - copia\Proyecto\obj\Debug\Proyecto.Poder.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto ESTE ES EL VERDADERO\Proyecto\bin\Debug\Proyecto.exe.config
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto ESTE ES EL VERDADERO\Proyecto\bin\Debug\Proyecto.exe
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto ESTE ES EL VERDADERO\Proyecto\bin\Debug\Proyecto.pdb
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Configuracion.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.DeseaUsarSuPoder.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Game.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Inicio.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.IntroducirJugadores.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Poder.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Ranking.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.MenuPrincipal.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Salir.resources
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.exe
+D:\PARA EL PROYECTO FINAL\PROYECTO OJO\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.pdb
+E:\Proyecto ESTE ES EL VERDADERO\Proyecto\bin\Debug\Proyecto.exe.config
+E:\Proyecto ESTE ES EL VERDADERO\Proyecto\bin\Debug\Proyecto.exe
+E:\Proyecto ESTE ES EL VERDADERO\Proyecto\bin\Debug\Proyecto.pdb
+E:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+E:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Configuracion.resources
+E:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.DeseaUsarSuPoder.resources
+E:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Game.resources
+E:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Inicio.resources
+E:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.IntroducirJugadores.resources
+E:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Poder.resources
+E:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+E:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Ranking.resources
+E:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.MenuPrincipal.resources
+E:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Salir.resources
+E:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+E:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.exe
+E:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.pdb
+F:\Proyecto ESTE ES EL VERDADERO\Proyecto\bin\Debug\Proyecto.exe.config
+F:\Proyecto ESTE ES EL VERDADERO\Proyecto\bin\Debug\Proyecto.exe
+F:\Proyecto ESTE ES EL VERDADERO\Proyecto\bin\Debug\Proyecto.pdb
+F:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+F:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Configuracion.resources
+F:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.DeseaUsarSuPoder.resources
+F:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Game.resources
+F:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Inicio.resources
+F:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.IntroducirJugadores.resources
+F:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Poder.resources
+F:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+F:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Ranking.resources
+F:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.MenuPrincipal.resources
+F:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Salir.resources
+F:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+F:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.exe
+F:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.pdb
+G:\Proyecto ESTE ES EL VERDADERO\Proyecto\bin\Debug\Proyecto.exe.config
+G:\Proyecto ESTE ES EL VERDADERO\Proyecto\bin\Debug\Proyecto.exe
+G:\Proyecto ESTE ES EL VERDADERO\Proyecto\bin\Debug\Proyecto.pdb
+G:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+G:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Configuracion.resources
+G:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.DeseaUsarSuPoder.resources
+G:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Game.resources
+G:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Inicio.resources
+G:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.IntroducirJugadores.resources
+G:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Poder.resources
+G:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+G:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Ranking.resources
+G:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.MenuPrincipal.resources
+G:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Salir.resources
+G:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+G:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.exe
+G:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.pdb
+C:\Proyecto ESTE ES EL VERDADERO\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Proyecto ESTE ES EL VERDADERO\Proyecto\bin\Debug\Proyecto.exe
+C:\Proyecto ESTE ES EL VERDADERO\Proyecto\bin\Debug\Proyecto.pdb
+C:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Configuracion.resources
+C:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.DeseaUsarSuPoder.resources
+C:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Game.resources
+C:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Inicio.resources
+C:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.IntroducirJugadores.resources
+C:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Poder.resources
+C:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Ranking.resources
+C:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.MenuPrincipal.resources
+C:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.Salir.resources
+C:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.exe
+C:\Proyecto ESTE ES EL VERDADERO\Proyecto\obj\Debug\Proyecto.pdb
+E:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\bin\Debug\Proyecto.exe.config
+E:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\bin\Debug\Proyecto.exe
+E:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\bin\Debug\Proyecto.pdb
+E:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+E:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\obj\Debug\Proyecto.Configuracion.resources
+E:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\obj\Debug\Proyecto.DeseaUsarSuPoder.resources
+E:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\obj\Debug\Proyecto.Game.resources
+E:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\obj\Debug\Proyecto.Inicio.resources
+E:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\obj\Debug\Proyecto.IntroducirJugadores.resources
+E:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\obj\Debug\Proyecto.Poder.resources
+E:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+E:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\obj\Debug\Proyecto.Ranking.resources
+E:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\obj\Debug\Proyecto.MenuPrincipal.resources
+E:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\obj\Debug\Proyecto.Salir.resources
+E:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+E:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\obj\Debug\Proyecto.exe
+E:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\obj\Debug\Proyecto.pdb
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\bin\Debug\Proyecto.exe
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\bin\Debug\Proyecto.pdb
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\obj\Debug\Proyecto.Configuracion.resources
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\obj\Debug\Proyecto.DeseaUsarSuPoder.resources
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\obj\Debug\Proyecto.Game.resources
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\obj\Debug\Proyecto.Inicio.resources
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\obj\Debug\Proyecto.IntroducirJugadores.resources
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\obj\Debug\Proyecto.Poder.resources
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\obj\Debug\Proyecto.Ranking.resources
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\obj\Debug\Proyecto.MenuPrincipal.resources
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\obj\Debug\Proyecto.Salir.resources
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\obj\Debug\Proyecto.exe
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)\Proyecto\obj\Debug\Proyecto.pdb
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)  20.06.2016\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)  20.06.2016\Proyecto\bin\Debug\Proyecto.exe
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)  20.06.2016\Proyecto\bin\Debug\Proyecto.pdb
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)  20.06.2016\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)  20.06.2016\Proyecto\obj\Debug\Proyecto.Configuracion.resources
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)  20.06.2016\Proyecto\obj\Debug\Proyecto.DeseaUsarSuPoder.resources
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)  20.06.2016\Proyecto\obj\Debug\Proyecto.Game.resources
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)  20.06.2016\Proyecto\obj\Debug\Proyecto.Inicio.resources
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)  20.06.2016\Proyecto\obj\Debug\Proyecto.IntroducirJugadores.resources
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)  20.06.2016\Proyecto\obj\Debug\Proyecto.Poder.resources
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)  20.06.2016\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)  20.06.2016\Proyecto\obj\Debug\Proyecto.Ranking.resources
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)  20.06.2016\Proyecto\obj\Debug\Proyecto.MenuPrincipal.resources
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)  20.06.2016\Proyecto\obj\Debug\Proyecto.Salir.resources
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)  20.06.2016\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)  20.06.2016\Proyecto\obj\Debug\Proyecto.exe
+C:\Proyecto ESTE ES EL VERDADERO ACTUALIZADO (ultimo al fin)  20.06.2016\Proyecto\obj\Debug\Proyecto.pdb

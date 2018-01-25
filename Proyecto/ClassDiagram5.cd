@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Proyecto.Clases.Fuego">
+    <Position X="14.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Fuego.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.Clases.Estaticos">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Estaticos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.Clases.Fenix" Collapsed="true">
+    <Position X="19" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIACAwAABAAAAARAAAAgIAAAAEQAAARAABgEAAAABA=</HashCode>
+      <FileName>Clases\Fenix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.Clases.Jugador" Collapsed="true">
+    <Position X="22" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EAIACAwAABIAQASQAAAIgIDAlAkCEgChAAAAEAAAABQ=</HashCode>
+      <FileName>Clases\Jugador.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Proyecto.Clases.Moviles">
+    <Position X="17" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Moviles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.Clases.Muerte" Collapsed="true">
+    <Position X="16.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAQAFAAAACQAQAAAIAAAAAYAAAAAABgCIAAAIA=</HashCode>
+      <FileName>Clases\Muerte.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.Clases.Obstaculo">
+    <Position X="9" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Obstaculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.Clases.Pegaso" Collapsed="true">
+    <Position X="23" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIACAwABBAAAAARAAAAgIgAAAEAAAABAABgEAAAABA=</HashCode>
+      <FileName>Clases\Pegaso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.Clases.Simples">
+    <Position X="12.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Simples.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.Clases.Sirena" Collapsed="true">
+    <Position X="21" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIACAwAABAAAAARAAAAgIAAAAEAAAARAABgEAAAABA=</HashCode>
+      <FileName>Clases\Sirena.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.Clases.Tablero">
+    <Position X="27.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAIAwBQAAAAAAIAACAACAAgAABZAAAgAABAAAA=</HashCode>
+      <FileName>Clases\Tablero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.Clases.Nautilus">
+    <Position X="3.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Nautilus.cs</FileName>
+      <NewMemberFileName>Clases\Tornado.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.Clases.TRex" Collapsed="true">
+    <Position X="24.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIACAwAABAAAAAQAAAAgIAAAAEAAAARAAAAEAAAABA=</HashCode>
+      <FileName>Clases\TRex.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Proyecto.Clases.Cristal">
+    <Position X="12.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Cristal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.Game">
+    <Position X="24.75" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QUwRQydoC6EYBzwwAlKZQJDCD8igqxCCw24gjr7BwQI=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.Program" Collapsed="true">
+    <Position X="26.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.Properties.Resources" Collapsed="true">
+    <Position X="24.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AWACIQMQQCABqEQCAYAJ8AQAIYIQoIQBBIUAQAggEoA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.Properties.Settings" Collapsed="true">
+    <Position X="26.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.Clases.Tierra">
+    <Position X="6.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Tierra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.Clases.Agua">
+    <Position X="10.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Agua.cs</FileName>
+      <NewMemberFileName>Clases\Aire.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.Clases.Rafaga">
+    <Position X="1.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Rafaga.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.Clases.Tornado">
+    <Position X="5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Tornado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.Clases.Juego">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEAEQAAAAAAAA=</HashCode>
+      <FileName>Clases\Juego.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Proyecto.Clases.MataJugador" Collapsed="true">
+    <Position X="24.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\MataJugador.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Proyecto.Clases.MoverJugador" Collapsed="true">
+    <Position X="26.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Clases\MoverJugador.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
